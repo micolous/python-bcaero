@@ -5,7 +5,7 @@ Gets mapping data from BoardConnect
 
 Copyright 2014 Michael Farrell <http://micolous.id.au>
 
-Tile server: http://map.boardconnect.aero/tiles/
+License: 3-clause BSD, see COPYING
 
 """
 

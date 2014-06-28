@@ -7,7 +7,6 @@
 # GIS database files.
 *.geojson
 *.json
-*.txt
 *.shp
 *.prj
 *.qpj
@@ -15,5 +14,9 @@
 *.dbf
 *.osm
 *.cpg
+*.qgs
+*.html
+*.js
+*.css
 
 

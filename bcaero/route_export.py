@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 """
+bcaero.route_export: GeoJSON flight route export
+Copyright 2014 Michael Farrell <http://micolous.id.au>
 
-http://map.boardconnect.aero/tiles/
+License: 3-clause BSD, see COPYING
+
+On-board tileserver: http://map.boardconnect.aero/tiles/
 """
 
 from __future__ import absolute_import
